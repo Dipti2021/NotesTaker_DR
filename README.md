@@ -42,7 +42,7 @@ For this project, I have created an application that can be used to write, save,
  Else we can also run the app from the terminal by using running 
  
  ```
-node index.js
+node server.js
 ```
 And then search for the localhost:2020 in your browser
  
