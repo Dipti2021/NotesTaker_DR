@@ -37,7 +37,7 @@ For this project, I have created an application that can be used to write, save,
  ## Deployed Application
  The following shows how I created this app and how it generates the file. I may make some chagnges to the code to make it more clean. But more or less, it is almost an exact representation of the code
 
- [The Heroku Link](https://notetakerdr.herokuapp.com/)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://notetakerdr.herokuapp.com/)
  
  Else we can also run the app from the terminal by using running 
  
