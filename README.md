@@ -1,6 +1,6 @@
 # NotesTaker_DR
 ![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: GPL v3](https://img.shields.io/badge/License-MIT-pink.svg)
 ![Project:no](https://img.shields.io/badge/Project-17-green.svg)
 
 
@@ -17,21 +17,9 @@ For this project, I have created an application that can be used to write, save,
 * [Credits](#credits)
 
  ## Introduction 
- I have worked and added functions to the code where a part of it was already provide to me.This app generates a __README__ file based off the  user input. This app is mainly working from the "index.js" file and parts of it have been exported from "generateMarkdown"  file. Both of them being JavaScript codes.In order to start the code, you need to install the inquirer package and for that you should have npm installed. If not then you can do it using the following commands that need to be written in your terminal. 
- ```
-npm init
-```
-```
-npm install
-```
+ For this project the frontend was already provided,but I added some styling to it without changing the javascript part of it.Along with it, I built the backend part of the App and connected the two together.I created the routes, namely,__apiRoutes.js__  where the get post and delete functions are created and implemented.Also, the __htmlRoutes.js__ which routes the file to the correct files.At the end, the __server.js__ file is used to set up the port and list it as a localhost.All the notes are returned and saved as JSON.
 
- 
- The application will begin by typing the following command in the terminal and pressing the "enter" key:
- ```
-node index.js
-```
-The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
- 
+
  ## Screenshot of the App
  
  __Landing Page__
