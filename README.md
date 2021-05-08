@@ -1,5 +1,5 @@
 # NotesTaker_DR
-![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
+![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sCode-yellow.svg)
 ![License: GPL v3](https://img.shields.io/badge/License-MIT-pink.svg)
 ![Project:no](https://img.shields.io/badge/Project-17-green.svg)
 
