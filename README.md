@@ -39,10 +39,10 @@ For this project, I have created an application that can be used to write, save,
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://notetakerdr.herokuapp.com/)
  
- Else we can also run the app from the terminal by using running 
+ Else we can also run the app from the terminal by running the command
  
  ```
-node server.js
+node server
 ```
 And then search for the localhost:2020 in your browser
  
