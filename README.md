@@ -9,7 +9,7 @@ For this project, I have created an application that can be used to write, save,
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Screenshot of the questions](#scr)
+* [Screenshots of the App](#scr)
 * [Demo of the Application](#demo)
 * [Deployed Application](#web)
 * [Installations](#installations)
@@ -32,8 +32,16 @@ node index.js
 ```
 The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
  
- ## Screenshot of the questions
- ![image](images/ques.png)
+ ## Screenshot of the App
+ 
+ __Landing Page__
+ ![image2](public/assets/LandingPage.png)
+ 
+ __Notes Page__
+  ![image3](public/assets/Notespage.png)
+  
+  __API's__
+  ![image4](public/assets/api.png)
  
  ## Demo of the App
  ![image1](public/assets/teamnotes.gif)
